@@ -3,8 +3,6 @@
 # MSc Business Information Management, RSM 2026
 
 setwd("~/Downloads/thesis code 8-5-26")
-source("01_cleaning_descriptives.R")
-
 set.seed(123)
 
 library(dplyr)
